@@ -30,6 +30,9 @@ var remV = document.getElementById("RemoveV")
 var tt = document.getElementById("tt")
 
 var y = Number(am.value)
+
+<script src="https://richtr.github.io/NoSleep.js/dist/NoSleep.min.js"></script>
+var noSleep = new NoSleep();
 noSleep.enable();
 
 
