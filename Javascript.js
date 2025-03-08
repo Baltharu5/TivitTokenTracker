@@ -30,6 +30,7 @@ var remV = document.getElementById("RemoveV")
 var tt = document.getElementById("tt")
 
 var y = Number(am.value)
+noSleep.enable();
 
 
 
